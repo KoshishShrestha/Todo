@@ -23,5 +23,22 @@ LOGIN AND LOGOUT
 
 ![login and logout](https://github.com/KoshishShrestha/Todo/assets/117556138/b5f2cf97-d42b-4830-9014-7020b5c913ba)
 
+ADD TASK 
+![add task](https://github.com/KoshishShrestha/Todo/assets/117556138/fae80e65-1264-490b-b51b-2ea5a766fe3e)
+
+UPDATE TASK
+![update task](https://github.com/KoshishShrestha/Todo/assets/117556138/d02dd944-9b61-4bce-853a-1069e6158513)
+
+DELETE TASK
+![delete task](https://github.com/KoshishShrestha/Todo/assets/117556138/af30f3ab-3a16-4328-9a9e-d40ab7eea712)
+
+CLEAR ALL
+![clear all](https://github.com/KoshishShrestha/Todo/assets/117556138/9ce8a397-c8c4-4bdc-b199-2654f9bbff06)
+
+CLEAR ALL CHECKED
+![clear all checked](https://github.com/KoshishShrestha/Todo/assets/117556138/6ecaf48e-2d19-4b24-bd67-251e4b076d94)
+
+LOGIN AND LOGOUT
+![login and logout](https://github.com/KoshishShrestha/Todo/assets/117556138/92c4e749-f610-419f-9c35-e0a2644b1cf0)
 
 
